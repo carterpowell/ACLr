@@ -1,0 +1,71 @@
+Variable Name,Common Name/Description
+cluster,Cluster
+per,Player Efficiency Rating (PER)
+ts_pct,True Shooting Percentage
+fg3a_per_fga_pct,Three-Point Attempt Rate
+fta_per_fga_pct,Free Throw Attempt Rate
+orb_pct,Offensive Rebound Percentage
+drb_pct,Defensive Rebound Percentage
+trb_pct,Total Rebound Percentage
+ast_pct,Assist Percentage
+stl_pct,Steal Percentage
+blk_pct,Block Percentage
+tov_pct,Turnover Percentage
+usg_pct,Usage Percentage
+ows,Offensive Win Shares
+dws,Defensive Win Shares
+ws,Win Shares
+ws_per_48,Win Shares Per 48 Minutes
+obpm,Offensive Box Plus/Minus
+dbpm,Defensive Box Plus/Minus
+bpm,Box Plus/Minus
+vorp,Value Over Replacement Player
+season,Season
+gs,Games Started
+mp_per_g,Minutes Per Game
+fg_per_g,Field Goals Per Game
+fga_per_g,Field Goal Attempts Per Game
+fg_pct_x,Field Goal Percentage
+fg3_per_g,Three-Point Field Goals Per Game
+fg3a_per_g,Three-Point Field Goal Attempts Per Game
+fg3_pct,Three-Point Field Goal Percentage
+fg2_per_g,Two-Point Field Goals Per Game
+fg2a_per_g,Two-Point Field Goal Attempts Per Game
+fg2_pct,Two-Point Field Goal Percentage
+efg_pct,Effective Field Goal Percentage
+ft_per_g,Free Throws Per Game
+fta_per_g,Free Throw Attempts Per Game
+ft_pct,Free Throw Percentage
+orb_per_g,Offensive Rebounds Per Game
+drb_per_g,Defensive Rebounds Per Game
+trb_per_g,Total Rebounds Per Game
+ast_per_g,Assists Per Game
+stl_per_g,Steals Per Game
+blk_per_g,Blocks Per Game
+tov_per_g,Turnovers Per Game
+pf_per_g,Personal Fouls Per Game
+pts_per_g,Points Per Game
+age,Age
+g,Games Played
+mp_y,Total Minutes Played
+avg_dist,Average Shot Distance
+pct_fga_fg2a,Percentage of FGA from Two-Point Range
+pct_fga_00_03,Percentage of FGA from 0-3 feet
+pct_fga_03_10,Percentage of FGA from 3-10 feet
+pct_fga_10_16,Percentage of FGA from 10-16 feet
+pct_fga_16_xx,Percentage of FGA from 16+ feet
+pct_fga_fg3a,Percentage of FGA from Three-Point Range
+fg_pct_fg2a,Field Goal Percentage on Two-Pointers
+fg_pct_00_03,Field Goal Percentage from 0-3 feet
+fg_pct_03_10,Field Goal Percentage from 3-10 feet
+fg_pct_10_16,Field Goal Percentage from 10-16 feet
+fg_pct_16_xx,Field Goal Percentage from 16+ feet
+fg_pct_fg3a,Field Goal Percentage on Three-Pointers
+pct_ast_fg2,Percentage of Two-Point Field Goals Assisted
+pct_ast_fg3,Percentage of Three-Point Field Goals Assisted
+pct_fga_dunk,Percentage of FGA that are Dunks
+fg_dunk,Dunks Made
+pct_fg3a_corner3,Percentage of Three-Point Attempts from Corner
+fg_pct_corner3,Three-Point Percentage from Corner
+fg3a_heave,Heave Three-Point Attempts
+fg3_heave,Heave Three-Pointers Made
